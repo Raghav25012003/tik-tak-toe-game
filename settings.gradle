@@ -1,0 +1,2 @@
+rootProject.name='ZERO AND KATA'
+include ':app'
